@@ -38,9 +38,6 @@
 
 ## 📌 Projetos Acadêmicos
 
-- 📚 Sistema de Biblioteca
-- 🚗 Sistema de Veículos
-- 🦷 Sistema Odontológico
 - 🛒 API Loja Online
 - 💻 Desenvolvimento de APIs em Node.js
 
